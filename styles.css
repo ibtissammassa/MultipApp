@@ -20,7 +20,7 @@ h4{
     text-align: right;
 }
 input{
-    width: 100%;
+    width: 95%;
     height: 35px;
     border :rgb(19, 143, 19) solid;
     margin-top: 16px;
@@ -30,7 +30,7 @@ h2{
     margin-top: 10px;
 }
 button{
-    width: 104%;
+    width: 100%;
     height: 35px;
     background-color: rgb(19, 143, 19);
     color: white;

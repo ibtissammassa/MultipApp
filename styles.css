@@ -45,7 +45,7 @@ input[placeholder]{
     font-size: 19px;
 }
 button:hover{
-    filter: brightness(1);
+    filter: brightness(1.2);
 }
 
 

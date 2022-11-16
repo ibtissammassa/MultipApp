@@ -8,9 +8,9 @@ body{
     text-align: center;
     font-family: cursive;
 }
-div{
+form{
     border-radius: 15px;
-    box-shadow: black;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     background-color: white;
     padding: 55px;
 }
@@ -25,6 +25,7 @@ input{
     border :rgb(19, 143, 19) solid;
     margin-top: 16px;
     margin-bottom: 16px;
+    color: rgb(19, 143, 19);
 }
 h2{
     margin-top: 10px;

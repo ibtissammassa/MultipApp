@@ -38,3 +38,11 @@ formEl.addEventListener("submit",
 function UpdateLocalStorage(){
     localStorage.setItem("score",score.toString());
 }
+
+//reset fct 
+formEl.addEventListener("reset",
+()=>{
+    score=0;
+    UpdateLocalStorage();
+    scoreEl.innerText=score;
+})

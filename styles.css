@@ -60,4 +60,12 @@ button:hover{
     font-weight: bold;
     border: rgb(46, 82, 61);
 }
-
+@media(max-width:500px){
+    form{
+        padding: 30px;
+        font-size: 14px;
+    }
+    input[placeholder]{
+        font-size: 15px;
+    }
+}
